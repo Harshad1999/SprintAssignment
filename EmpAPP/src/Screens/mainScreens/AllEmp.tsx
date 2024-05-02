@@ -3,7 +3,7 @@ import React from "react";
 
 const AllEmp = () => {
   return (
-    <View>
+    <View style={{flex: 1,backgroundColor:'yellow'}}>
       <Text>AllEmp</Text>
     </View>
   );
